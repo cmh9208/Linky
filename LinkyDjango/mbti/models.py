@@ -1,10 +1,8 @@
 from django.db import models
 
-# Create your models here.
-# 성향 진단 질문지
 class Mbti(models.Model):
     use_in_migration = True
-    guestionnaire_id = models.AutoField(primary_key=True)
+    mbti_id = models.AutoField(primary_key=True)
     keyword = models.TextField() # 키워드
     question = models.TextField()  # 질문
 

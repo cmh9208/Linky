@@ -5,7 +5,6 @@ from mbti.models import Mbti
 from user.models import User
 
 
-# Create your models here.
 # 진단
 class Diagnosis(models.Model):
     use_in_migration = True
@@ -15,17 +14,17 @@ class Diagnosis(models.Model):
     anger = models.TextField() # 분노
     panic = models.TextField() # 당황
     anxiety = models.IntegerField() # 불안
-    wound = models.IntegerField() # 상처
-    presonality = models.IntegerField()  # 성향
+    bruise = models.IntegerField() # 상처
+    personality = models.IntegerField()  # 성향
     diagnosis_history = models.IntegerField()  # 진단기록
 
     user = models.ForeignKey(User, on_delete=models.CASCADE)
     linky = models.ForeignKey(Linky, on_delete=models.CASCADE)
-    guestionnaire = models.ForeignKey(Mbti, on_delete=models.CASCADE)
+    mbti = models.ForeignKey(Mbti, on_delete=models.CASCADE)
 
     class Meta:
         db_table = "diagnosis"
     def __str__(self):
         return f'{self.pk} {self.joy} {self.sadness} {self.anger}' \
-               f'{self.panic} {self.anxiety} {self.wound} ' \
-               f'{self.presonality} {self.diagnosis_history}'
+               f'{self.panic} {self.anxiety} {self.bruise} ' \
+               f'{self.personality} {self.diagnosis_history}'

@@ -1,7 +1,5 @@
 from django.db import models
 
-# Create your models here.
-# 사용자
 class User(models.Model):
     use_in_migration = True
     user_id = models.AutoField(primary_key=True)
