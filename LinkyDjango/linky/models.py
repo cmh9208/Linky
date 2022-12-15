@@ -9,7 +9,7 @@ class Linky(models.Model):
     character = models.TextField() # 성격
 
     class Meta:
-        db_table = "lingkys"
+        db_table = "linkys"
     def __str__(self):
         return f'{self.pk} {self.color} {self.size} ' \
                f'{self.level} {self.character}'
