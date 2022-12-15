@@ -5,23 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a021e8de-ccd5-4a43-8b18-ec9f07ee61ab" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diagnosis/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diagnosis/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/linky/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/linky/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/linky/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/linky/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbti/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbti/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/user/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linky/src/user/components/Login.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../linky/src/user/components/Login.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linky/src/user/containers/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../linky/src/user/containers/Home.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -90,7 +91,7 @@
       <workItem from="1671010730665" duration="532000" />
       <workItem from="1671011273321" duration="787000" />
       <workItem from="1671012080076" duration="628000" />
-      <workItem from="1671074846376" duration="1257000" />
+      <workItem from="1671074846376" duration="3133000" />
     </task>
     <servers />
   </component>
