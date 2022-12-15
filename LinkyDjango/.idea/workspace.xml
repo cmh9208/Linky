@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a021e8de-ccd5-4a43-8b18-ec9f07ee61ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/LinkyDjango.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/linkyproject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diagnosis/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diagnosis/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/diagnosis/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linky/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/linky/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/linky/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbti/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbti/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/mbti/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/user/models.py" afterDir="false" />
-    </list>
+    <list default="true" id="a021e8de-ccd5-4a43-8b18-ec9f07ee61ab" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +76,7 @@
       <workItem from="1671010120796" duration="596000" />
       <workItem from="1671010730665" duration="532000" />
       <workItem from="1671011273321" duration="787000" />
-      <workItem from="1671012080076" duration="398000" />
+      <workItem from="1671012080076" duration="628000" />
     </task>
     <servers />
   </component>
