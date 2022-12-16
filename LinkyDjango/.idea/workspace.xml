@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a021e8de-ccd5-4a43-8b18-ec9f07ee61ab" name="Changes" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/6b1ce0f2-b883-4180-8695-a297c1723002.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/f4e5720d-8d2a-4dbf-bd9f-1d1a3f2c5db9.xml" beforeDir="false" />
@@ -16,11 +17,26 @@
       <change beforePath="$PROJECT_DIR$/mbti/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/mbti/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../linky/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../linky/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../linky/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../linky/yarn.lock" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/user/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/user/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linky/src/user/components/Login.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../linky/src/user/components/Login.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linky/src/user/containers/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../linky/src/user/containers/Home.jsx" afterDir="false" />
+>>>>>>> 224575c1cbe47363861fe0568b48d9ce88c13bd3
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -89,9 +105,13 @@
       <workItem from="1671010730665" duration="532000" />
       <workItem from="1671011273321" duration="787000" />
       <workItem from="1671012080076" duration="628000" />
+<<<<<<< HEAD
       <workItem from="1671074846376" duration="1257000" />
       <workItem from="1671077556094" duration="853000" />
       <workItem from="1671185342501" duration="40000" />
+=======
+      <workItem from="1671074846376" duration="3133000" />
+>>>>>>> 224575c1cbe47363861fe0568b48d9ce88c13bd3
     </task>
     <servers />
   </component>
