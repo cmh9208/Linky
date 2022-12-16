@@ -10,3 +10,4 @@ class Mbti(models.Model):
         db_table = "mbtis"
     def __str__(self):
         return f'{self.pk} {self.keyword} {self.question}'
+    #git 테스트용 주석
