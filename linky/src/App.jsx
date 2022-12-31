@@ -1,4 +1,4 @@
-import Home from "user/containers/Home"
+import { Home } from "main"
 
 const App = () => {
 
